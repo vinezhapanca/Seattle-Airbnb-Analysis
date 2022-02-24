@@ -21,10 +21,10 @@ This dataset shows the current profile of each listings.
 This dataset shows the reviews by users.
 
 Some external references I used to improve my analysis are :
-https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
-https://pypi.org/project/langdetect/
-https://www.datacamp.com/community/tutorials/wordcloud-python
-https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
+1. https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
+2. https://pypi.org/project/langdetect/
+3. https://www.datacamp.com/community/tutorials/wordcloud-python
+4. https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
 
 
 
