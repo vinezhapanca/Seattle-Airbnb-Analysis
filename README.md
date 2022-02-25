@@ -1,10 +1,10 @@
 # Seattle Airbnb Analysis
 
-1. [ Introduction. ](#intro)
-2. [ Analysis. ](#section1)
-3. [ Additional Information. ](#section2)
-4. [ References.](#section3)
-5. [ Conclusion. ](#conclusion)
+1. [ Introduction. ](#Introduction)
+2. [ Analysis. ](#Analysis)
+3. [ Additional Information. ](#Additional Information)
+4. [ References.](#References)
+5. [ Conclusion. ](#Conclusion)
 
 
 ## Introduction
