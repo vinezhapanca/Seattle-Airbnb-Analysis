@@ -36,6 +36,7 @@ This dataset shows the current profile of each listings.
 This dataset shows the reviews by users.
 
 You can access the repository through this link : https://github.com/vinezhapanca/Seattle-Airbnb-Analysis
+
 I have also written a blog post about this analysis, which can be accessed here : https://medium.com/@vinezha.panca/seattle-airbnb-data-analysis-a55d43cb260d
 
 ## References
@@ -47,7 +48,9 @@ Some external references I used to improve my analysis are :
 
 ## Conclusion
 We can evaluate the occupancy of the housings by seeing how many of the housings are always fully booked or idle, also the trend of the occupancy over time.
+
 We can evaluate the rating scores further by seeing whether the scores vary significantly between the neighbourhood groups.
+
 By utilizing natural language processing (sentiment analysis, wordcloud), we can dig deeper through the reviews and pinpoint what we should improve.
 
 
